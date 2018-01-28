@@ -1,4 +1,4 @@
-#coding: utf-8
+# -*- coding:utf-8 -*-
 ##小猴子爱吃桃子
 ##题目链接，http://www.shiyanbar.com/ctf/2048
 ##
