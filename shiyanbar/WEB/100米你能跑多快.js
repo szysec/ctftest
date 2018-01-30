@@ -4,7 +4,7 @@ function getTextByName(name) {
 	return document.getElementsByName(name)[0].innerText;
 }
 function fillTextByName(name, text) {
-	var names = document.getElementsByName(name)
+    var names = document.getElementsByName(name);
     names[0].value = text;
 }
 res = eval(getTextByName("my_expr").replace(/x/g,"*"));
