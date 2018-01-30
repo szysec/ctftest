@@ -28,9 +28,7 @@ def getCaesarList(string):
                 j = j + 1
                 if j >= 91:
                     j -= 26
-                ls.append(j)
-            else:
-                ls.append(j)
+            ls.append(j)
         li = ls
         caesarList.append(orderListToString(li).lower())
     return caesarList
