@@ -10,11 +10,6 @@ def fileRead(path):
     f.close()
     return content
 
-def fileWrite(path, content):
-    f = open(path,'w')
-    f.write(content)
-    f.close()
-
 def generateQrcodePhotoFromList(ls, path, types):
     width, height = 256, 256
     image = Image.new('RGB', (width, height), (255, 255, 255))
