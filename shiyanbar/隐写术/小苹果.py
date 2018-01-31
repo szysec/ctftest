@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ##小苹果，当铺密码部分
-##题目链接，http://ctf5.shiyanbar.com/stega/apple.png
+##题目链接，http://www.shiyanbar.com/ctf/1928
 
 dic = {u'口': 0,
        u'由': 1,
