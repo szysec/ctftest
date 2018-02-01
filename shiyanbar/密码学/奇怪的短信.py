@@ -6,9 +6,8 @@
 def seperateStringToListInPairs(msg):
     li = []
     for i in xrange(len(msg)):
-        if i%2 == 1:
-            continue
-        li.append(msg[i] + msg[i+1])
+        if not i & 1:
+            li.append(msg[i] + msg[i+1])
     return li
 
 def generateStringFromList(li):
