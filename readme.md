@@ -3,6 +3,8 @@
 - CTF Wiki
 https://ctf-wiki.github.io/ctf-wiki/index.html?from=singlemessage&isappinstalled=0
 
+- CTF学习与交流-信息安全吧
+http://tieba.baidu.com/p/3933947157
 
 ## 线上练习及挑战
 
@@ -56,6 +58,9 @@ https://segmentfault.com/game
 
 ## Writeup & Summary
 
+- i春秋Writeup
+https://www.ichunqiu.com/writeup
+
 - 安全课
 https://www.anquanke.com
 
@@ -68,7 +73,6 @@ http://www.blue-lotus.net/
 - 各个赛WP大集合
 http://www.cnblogs.com/iamstudy/category/890265.html
 
-
 ### 2014
 
 - SCTF（三叶草CTF） Write-Up
@@ -76,6 +80,9 @@ http://www.freebuf.com/articles/web/54176.html
 
 - SSCTF逆向部分
 http://www.programlife.net/ssctf-reverse-writeup.html
+
+- 吾爱破解2014安全挑战赛
+https://www.52pojie.cn/forum-67-1.html
 
 ### 2015
 
@@ -92,6 +99,9 @@ http://www.freebuf.com/articles/web/121778.html
 
 - 2016 SWPU CTF的WriteUp
 http://www.codesec.net/view/492141.html
+
+- 吾爱破解2016安全挑战赛
+https://www.52pojie.cn/forum-71-1.html
 
 ### 2017
 
@@ -141,6 +151,9 @@ https://www.cnblogs.com/Hg-Yyq/p/8641992.html
 
 - 强网杯部分Crypto题解
 https://blog.csdn.net/qq_38412357/article/details/79696263
+
+- writeup | 强网杯—Share your mind
+https://mp.weixin.qq.com/s?src=11&timestamp=1522118153&ver=779&signature=xZRUCNbCq5CO5SakLtkzSfrqrxDOy7w9WBZQYhKW8KGD9R0n6XrDITcRkJ2H*L7sOURXwUMkXuWvEjTd4cGbetZFFDaLLHOhwXXzdAPC*ExgnKvR1xOPLrKgAzO*B01z
 
 ## 比赛
 
@@ -196,6 +209,9 @@ http://tools.jb51.net/
 
 ### md5
 
+- chamd5
+http://www.chamd5.org/
+
 - xmd5
 https://www.xmd5.com/
 
@@ -216,6 +232,9 @@ http://esoteric.sange.fi/brainfuck/impl/interp/i.html
 - jsfuck
 http://www.jsfuck.com/
 
+- JScript/VBscript
+https://www.dheart.net/decode/index.php
+
 - rot13
 http://www.mxcz.net/tools/rot13.aspx
 
@@ -232,6 +251,12 @@ http://bugs.leavesongs.com
 
 - CTF中那些脑洞大开的编码和加密
 https://www.cnblogs.com/daban/p/5680451.html
+
+- 90' s Blog|关注信息安全
+https://www.unhonker.com/
+
+- hack fun
+https://hackfun.org/
 
 - ctf - CSDN搜索
 https://so.csdn.net/so/search/s.do?q=ctf&t=blog&o=&s=&l=
