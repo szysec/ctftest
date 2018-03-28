@@ -385,12 +385,6 @@ http://www.kali.org.cn/
 - xiao106347
 http://xiao106347.blog.163.com/
 
-## 编程相关
-
-### 汇编
-- 汇编入门-知乎专栏
-https://zhuanlan.zhihu.com/c_144694924
-
 ## github开源
 
 - Hcamael/CTF_repo
@@ -448,15 +442,6 @@ http://tools.jb51.net/
 
 - CTF.zip-百度网盘
 https://pan.baidu.com/s/1NULBwtOJ_rYraOpGHet8Mg- 
-
-- 2015暗组工具包（渗透）
-http://forum.cnsec.org/thread-94330-1-1.html
-
-- 2015_安全盒子工具包
-http://bbs.secbox.cn/thread-196-1-1.html
-
-- 法客论坛2015工具包-第三版
-http://www.secbox.cn/hacker/tools/3552.html
 
 - 吾爱破解工具包
 http://www.52pojie.cn/forum.php?mod=viewthread&tid=388015
