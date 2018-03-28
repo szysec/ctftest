@@ -53,10 +53,43 @@ http://www.try2hack.nl/levels/
 - 黑客丛林之旅
 http://www.fj543.com/hack/
 
+- ctf题目
+http://captf.com/
+
+- 脑洞开发，与ctf只有那么一点关系，有85关了(
+http://cafebabe.cc/nazo/
+
 - 光棍节程序员闯关秀
-https://segmentfault.com/game
+http://1111.segmentfault.com/
+
+- 梦之光芒的小游戏
+http://monyer.com/game/game1//
+
+- XCTF_OJ练习平台
+http://oj.xctf.org.cn/
+
+- 习科黑客游戏
+http://hackgame.blackbap.org/
+
+- Jlu.CTF
+http://ctf.3sec.cn/
+
+- 米安网ctf
+http://ctf.moonsos.com/pentest/index.php
+
+- 合天ctf
+http://www.hetianlab.com/CTFrace.html
+
+- 黑吧安全网-红客闯关游戏
+http://hkyx.myhack58.com/
+
+- 漏洞利用练习网站
+http://smashthestack.org/
 
 ## Writeup & Summary
+
+- ctfs
+https://github.com/ctfs/
 
 - i春秋Writeup
 https://www.ichunqiu.com/writeup
@@ -155,14 +188,6 @@ https://blog.csdn.net/qq_38412357/article/details/79696263
 - writeup | 强网杯—Share your mind
 https://mp.weixin.qq.com/s?src=11&timestamp=1522118153&ver=779&signature=xZRUCNbCq5CO5SakLtkzSfrqrxDOy7w9WBZQYhKW8KGD9R0n6XrDITcRkJ2H*L7sOURXwUMkXuWvEjTd4cGbetZFFDaLLHOhwXXzdAPC*ExgnKvR1xOPLrKgAzO*B01z
 
-## 比赛
-
-- DDCTF-2018
-http://ddctf.didichuxing.com/
-
-- TCTF 腾讯信息安全争霸赛
-http://tctf.qq.com/
-
 ## PWN
 - Software-Security-Learning
 https://github.com/CHYbeta/Software-Security-Learning/blob/master/README.md
@@ -171,6 +196,9 @@ https://github.com/CHYbeta/Software-Security-Learning/blob/master/README.md
 https://bbs.pediy.com/forum-171.htm
 
 ## Reverse
+
+-『逆向资源区』-吾爱破解
+https://www.52pojie.cn/forum-4-1.html
 
 - 学破解论坛-软件逆向分析
 https://www.xuepojie.com/
@@ -181,6 +209,33 @@ https://bbs.pediy.com/forum-4.htm
 - 逆向未来
 https://www.pd521.com/
 
+- Reversing.Kr
+http://reversing.kr/
+
+- Pwnable.Kr
+http://pwnable.kr/
+
+- Exploit Exercises
+http://exploit-exercises.com/
+
+- Wargames
+http://overthewire.org
+
+- bin
+http://security.cs.rpi.edu/courses/binexp-spring2015/
+
+- 『2014CrackMe大赛』
+http://www.52pojie.cn/forum-67-1.html
+
+- Android技术篇 | 尼古拉斯.赵四
+http://www.wjdiankong.cn/archives/category/android%E6%8A%80%E6%9C%AF%E7%AF%87
+
+- 安全和逆向 | 尼古拉斯.赵四
+http://www.wjdiankong.cn/archives/category/%E5%AE%89%E5%85%A8%E5%92%8C%E9%80%86%E5%90%91
+
+- ELF Paper
+https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-di-frederico.pdf
+
 ## Crypto
  
 - 『CrackMe』-看雪安全论坛
@@ -188,10 +243,194 @@ https://bbs.pediy.com/forum-37.htm
 
 ## Web
 
+### XSS
+
 - XSS平台
 http://xss.fbisb.com/xss.php
 
-## 在线工具
+- prompt
+http://prompt.ml/
+
+- XSS Challenges
+http://xss-quiz.int21h.jp/
+
+- escape alf
+http://escape.alf.nu/
+
+### SQL
+- Audi-1/sqli-labs
+https://github.com/Audi-1/sqli-labs
+
+- RedTiger's Hackit
+http://redtiger.labs.overthewire.org/
+
+## Misc
+
+- ctf隐写术-百度脑图
+http://naotu.baidu.com/file/3e4a946f06612511e829b126ef7f7242
+
+- 隐写术总结
+http://www.tuicool.com/articles/mu6Jv2
+
+- CTF中图片隐藏文件分离方法总结
+http://www.tuicool.com/articles/VviyAfY
+
+## Blog
+
+- CTF中那些脑洞大开的编码和加密
+https://www.cnblogs.com/daban/p/5680451.html
+
+- hack fun
+https://hackfun.org/
+
+- ctf - CSDN搜索
+https://so.csdn.net/so/search/s.do?q=ctf&t=blog&o=&s=&l=
+
+- 博客 - 腾讯安全应急响应中心
+http://security.tencent.com/index.php/blog
+
+- 217
+http://217.logdown.com/
+
+- blue-lotus
+http://www.blue-lotus.net
+
+- 0ops
+http://blog.0ops.net/
+
+- e4f
+http://le4f.net/
+
+- 代码疯子
+http://www.programlife.net/
+
+- redrain'blog
+http://www.hackdog.me/
+
+- 俊杰
+http://www.syjzwjj.com/
+
+- 三叶草安全小组
+http://syclover.sinaapp.com/
+
+- appleU0大大
+http://appleu0.sinaapp.com/
+
+- tomato表哥
+http://bl4ck.in/
+
+- 4叔叔
+http://www.sco4x0.com/
+
+- 白神
+http://laterain.sinaapp.com/
+
+- 0nly3nd
+http://0nly3nd.sinaapp.com/
+
+- LateRain'blog
+http://hijacks.in/
+
+- 独自等待
+http://www.waitalone.cn/
+
+- 余弦
+http://evilcos.me/
+
+- 暗月
+http://www.moonsec.com/
+
+- 玄魂
+http://www.cnblogs.com/xuanhun/
+
+- 离别歌
+https://www.leavesongs.com/
+
+- PHITHON的公开漏洞
+http://bugs.leavesongs.com
+
+- 鬼仔
+http://huaidan.org/
+
+- sky的自留地
+http://www.03sec.com/
+
+- jc老师
+http://joychou.org/
+
+- 90's
+http://www.unhonker.com/
+
+- 道哥的黑板报
+http://www1.taosay.net/
+
+- 知道创于
+http://blog.knownsec.com/
+
+- 焠安
+http://www.sadk.org/
+
+- seay'blog
+http://www.cnseay.com/
+
+- AptSec
+http://blog.aptsec.net/
+
+- 网络安全研究中心
+http://lcx.cc/
+
+- kali中文网
+http://www.kali.org.cn/
+
+- xiao106347
+http://xiao106347.blog.163.com/
+
+## 编程相关
+
+### 汇编
+- 汇编入门-知乎专栏
+https://zhuanlan.zhihu.com/c_144694924
+
+## github开源
+
+- Hcamael/CTF_repo
+https://github.com/Hcamael/CTF_repo
+
+- facebook/fbctf
+https://github.com/facebook/fbctf
+
+
+## 技能介绍
+- sec-wiki 安全技能
+https://www.sec-wiki.com/skill
+
+- 知道创宇研发技能表
+http://blog.knownsec.com/Knownsec_RD_Checklist/
+
+## 导航
+
+- 安全圈info
+https://www.anquanquan.info/
+
+- 纳威安全导航
+https://navisec.it/
+
+- CTF学习站点总结
+http://mp.weixin.qq.com/s/k_nnBNnzrWebBYqkKpr0Rw
+
+
+## 比赛
+
+- ctf time 各种CTF赛事预告
+https://ctftime.org/event/list/upcoming
+
+- DDCTF-2018
+http://ddctf.didichuxing.com/
+
+- TCTF 腾讯信息安全争霸赛
+http://tctf.qq.com/
+
+## 工具
 
 ### 工具合集
 
@@ -208,7 +447,25 @@ http://ctf.ssleye.com/
 http://tools.jb51.net/
 
 - CTF.zip-百度网盘
-https://pan.baidu.com/s/1NULBwtOJ_rYraOpGHet8Mg
+https://pan.baidu.com/s/1NULBwtOJ_rYraOpGHet8Mg- 
+
+- 2015暗组工具包（渗透）
+http://forum.cnsec.org/thread-94330-1-1.html
+
+- 2015_安全盒子工具包
+http://bbs.secbox.cn/thread-196-1-1.html
+
+- 法客论坛2015工具包-第三版
+http://www.secbox.cn/hacker/tools/3552.html
+
+- 吾爱破解工具包
+http://www.52pojie.cn/forum.php?mod=viewthread&tid=388015
+
+- 爱盘
+http://down.52pojie.cn/
+
+- 吾爱破解论坛专用破解虚拟机
+http://www.52pojie.cn/thread-341238-1-1.html
 
 ### md5
 
@@ -243,43 +500,3 @@ http://www.mxcz.net/tools/rot13.aspx
 
 - 在线代码运行
 https://tool.lu/coderunner/
-
-## Blog
-
-- 首页 | 离别歌
-http://www.leavesongs.com
-
-- PHITHON的公开漏洞
-http://bugs.leavesongs.com
-
-- CTF中那些脑洞大开的编码和加密
-https://www.cnblogs.com/daban/p/5680451.html
-
-- 90' s Blog|关注信息安全
-https://www.unhonker.com/
-
-- hack fun
-https://hackfun.org/
-
-- ctf - CSDN搜索
-https://so.csdn.net/so/search/s.do?q=ctf&t=blog&o=&s=&l=
-
-## github开源
-
-- Hcamael/CTF_repo
-https://github.com/Hcamael/CTF_repo
-
-- facebook/fbctf
-https://github.com/facebook/fbctf
-
-
-## 导航
-
-- 安全圈info
-https://www.anquanquan.info/
-
-- 纳威安全导航
-https://navisec.it/
-
-- CTF学习站点总结
-http://mp.weixin.qq.com/s/k_nnBNnzrWebBYqkKpr0Rw
