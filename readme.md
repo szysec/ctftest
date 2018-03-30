@@ -462,6 +462,9 @@ https://tool.lu/
 - CTF在线工具
 http://ctf.ssleye.com/
 
+- 多功能在线工具库
+http://tools.bugscaner.com/
+
 - 脚本之家在线工具
 http://tools.jb51.net/
 
