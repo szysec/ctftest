@@ -180,6 +180,9 @@ https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
 
+- 第二届强网杯中应用的一种反作弊新思路 i春秋
+https://bbs.ichunqiu.com/thread-36705-1-1.html?from=groupmessage&isappinstalled=0 
+
 - 2018强网杯 web
 http://www.colabug.com/2546761.html
 
@@ -191,6 +194,18 @@ https://blog.csdn.net/qq_38412357/article/details/79696263
 
 - writeup | 强网杯—Share your mind
 https://mp.weixin.qq.com/s?src=11&timestamp=1522118153&ver=779&signature=xZRUCNbCq5CO5SakLtkzSfrqrxDOy7w9WBZQYhKW8KGD9R0n6XrDITcRkJ2H*L7sOURXwUMkXuWvEjTd4cGbetZFFDaLLHOhwXXzdAPC*ExgnKvR1xOPLrKgAzO*B01z
+
+- 第二届强网杯 web方向部分writeup
+https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247484832&idx=1&sn=852b5f599e2f81cad0450a5f8a933985&chksm=e89e2d78dfe9a46e32d5a79640dc8d112594fe5ae424dba32512b37ac9a4f47a17bdecd8f3aa&mpshare=1&scene=1&srcid=0330QPkNaiuks2SSLQvf6RAz
+
+- web方向部分writeup chamd5
+https://mp.weixin.qq.com/s/zoOA278csfdZJPzg8rf5iQ
+
+- 强网杯”部分题目Writeup 合天智汇
+https://mp.weixin.qq.com/s/qdjYYdxu7WTv6o8Ru9pyjQ  
+
+- writeup | 强网杯web题目四道 安恒网络空间安全讲武堂
+https://mp.weixin.qq.com/s/KPE-EjU5FJ5ZD2tvDZbX4A
 
 ## PWN
 - Software-Security-Learning
