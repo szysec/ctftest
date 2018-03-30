@@ -474,6 +474,12 @@ http://down.52pojie.cn/
 - 吾爱破解论坛专用破解虚拟机
 http://www.52pojie.cn/thread-341238-1-1.html
 
+- VirusTotal
+https://www.virustotal.com/
+
+- 腾讯哈勃分析系统
+https://habo.qq.com/
+
 ### md5
 
 - chamd5
