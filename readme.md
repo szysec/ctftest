@@ -113,6 +113,9 @@ http://www.cnblogs.com/iamstudy/category/890265.html
 - 三叶草安全小组，专注网络安全
 http://blog.sycsec.com/
 
+- Sec-News 安全文摘
+http://wiki.ioin.in/
+
 ### 2014
 
 - SCTF（三叶草CTF） Write-Up
@@ -473,6 +476,12 @@ http://down.52pojie.cn/
 
 - 吾爱破解论坛专用破解虚拟机
 http://www.52pojie.cn/thread-341238-1-1.html
+
+- VirusTotal
+https://www.virustotal.com/
+
+- 腾讯哈勃分析系统
+https://habo.qq.com/
 
 ### md5
 
