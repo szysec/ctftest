@@ -88,6 +88,8 @@ http://smashthestack.org/
 http://www.hetianlab.com/CTFrace.html
 
 ## Writeup & Summary
+- 反推随机数
+http://download.openwall.net/pub/projects/php_mt_seed/php_mt_seed-3.2.tar.gz
 
 - ctfs
 https://github.com/ctfs/
