@@ -87,7 +87,18 @@ http://smashthestack.org/
 - 合天实验室ctf
 http://www.hetianlab.com/CTFrace.html
 
+- 三个白帽子（已经被封杀）
+http://www.sangebaimao.com/
+
+- 打造自己的漏洞工具和靶场
+https://zhuanlan.zhihu.com/p/31560956
+
+- 漏洞靶场实现案例和示例网站
+https://github.com/leveryd/vulndocker
+
 ## Writeup & Summary
+- 反推随机数
+http://download.openwall.net/pub/projects/php_mt_seed/php_mt_seed-3.2.tar.gz
 
 - ctfs
 https://github.com/ctfs/
@@ -110,7 +121,7 @@ http://www.blue-lotus.net/
 - 各个赛WP大集合
 http://www.cnblogs.com/iamstudy/category/890265.html
 
-- 三叶草安全小组，专注网络安全
+- 四叶草安全小组，专注网络安全
 http://blog.sycsec.com/
 
 - Sec-News 安全文摘
@@ -118,7 +129,7 @@ http://wiki.ioin.in/
 
 ### 2014
 
-- SCTF（三叶草CTF） Write-Up
+- SCTF（四叶草CTF） Write-Up
 http://www.freebuf.com/articles/web/54176.html
 
 - SSCTF逆向部分
@@ -126,6 +137,7 @@ http://www.programlife.net/ssctf-reverse-writeup.html
 
 - 吾爱破解2014安全挑战赛
 https://www.52pojie.cn/forum-67-1.html
+
 
 ### 2015
 
@@ -462,6 +474,9 @@ https://tool.lu/
 - CTF在线工具
 http://ctf.ssleye.com/
 
+- 多功能在线工具库
+http://tools.bugscaner.com/
+
 - 脚本之家在线工具
 http://tools.jb51.net/
 
@@ -483,6 +498,7 @@ https://www.virustotal.com/
 - 腾讯哈勃分析系统
 https://habo.qq.com/
 
+
 ### md5
 
 - chamd5
@@ -496,6 +512,9 @@ http://www.cmd5.com/
 
 - pmd5
 http://pmd5.com/
+
+- md5 I tell you（无料）
+http://md5.tellyou.top/
 
 ### other
 
@@ -519,3 +538,6 @@ https://tool.lu/coderunner/
 
 - 在线写代码工具
 http://www.dooccn.com/
+
+- python反编译 - 在线工具
+https://tool.lu/pyc
