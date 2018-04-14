@@ -545,18 +545,23 @@ https://tool.lu/pyc
 ### 比赛用笔记本环境：
 
 **环境**
+
 Java JDK、Python2和3  
 
 **浏览器**
+
 IE，Chrome，Firefox，安装插件（谷歌助手，hackbar等）  
 
 **协作**
+
 PC端微信，TeamViewer，提前测试  
 
 **虚拟机**
+
 Kali(NAT，安装vmtools)  
 
 **集合**
+
 AGtools2017  
 
 **常用工具**
