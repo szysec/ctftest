@@ -1,4 +1,4 @@
-﻿## 关于
+## 关于
 
 - CTF Wiki
 https://ctf-wiki.github.io/ctf-wiki/index.html?from=singlemessage&isappinstalled=0
@@ -87,7 +87,18 @@ http://smashthestack.org/
 - 合天实验室ctf
 http://www.hetianlab.com/CTFrace.html
 
+- 三个白帽子（已经被封杀）
+http://www.sangebaimao.com/
+
+- 打造自己的漏洞工具和靶场
+https://zhuanlan.zhihu.com/p/31560956
+
+- 漏洞靶场实现案例和示例网站
+https://github.com/leveryd/vulndocker
+
 ## Writeup & Summary
+- 反推随机数
+http://download.openwall.net/pub/projects/php_mt_seed/php_mt_seed-3.2.tar.gz
 
 - ctfs
 https://github.com/ctfs/
@@ -110,9 +121,15 @@ http://www.blue-lotus.net/
 - 各个赛WP大集合
 http://www.cnblogs.com/iamstudy/category/890265.html
 
+- 四叶草安全小组，专注网络安全
+http://blog.sycsec.com/
+
+- Sec-News 安全文摘
+http://wiki.ioin.in/
+
 ### 2014
 
-- SCTF（三叶草CTF） Write-Up
+- SCTF（四叶草CTF） Write-Up
 http://www.freebuf.com/articles/web/54176.html
 
 - SSCTF逆向部分
@@ -120,6 +137,7 @@ http://www.programlife.net/ssctf-reverse-writeup.html
 
 - 吾爱破解2014安全挑战赛
 https://www.52pojie.cn/forum-67-1.html
+
 
 ### 2015
 
@@ -180,6 +198,9 @@ https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
 
+- 第二届强网杯中应用的一种反作弊新思路 i春秋
+https://bbs.ichunqiu.com/thread-36705-1-1.html?from=groupmessage&isappinstalled=0 
+
 - 2018强网杯 web
 http://www.colabug.com/2546761.html
 
@@ -191,6 +212,18 @@ https://blog.csdn.net/qq_38412357/article/details/79696263
 
 - writeup | 强网杯—Share your mind
 https://mp.weixin.qq.com/s?src=11&timestamp=1522118153&ver=779&signature=xZRUCNbCq5CO5SakLtkzSfrqrxDOy7w9WBZQYhKW8KGD9R0n6XrDITcRkJ2H*L7sOURXwUMkXuWvEjTd4cGbetZFFDaLLHOhwXXzdAPC*ExgnKvR1xOPLrKgAzO*B01z
+
+- 第二届强网杯 web方向部分writeup
+https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247484832&idx=1&sn=852b5f599e2f81cad0450a5f8a933985&chksm=e89e2d78dfe9a46e32d5a79640dc8d112594fe5ae424dba32512b37ac9a4f47a17bdecd8f3aa&mpshare=1&scene=1&srcid=0330QPkNaiuks2SSLQvf6RAz
+
+- web方向部分writeup chamd5
+https://mp.weixin.qq.com/s/zoOA278csfdZJPzg8rf5iQ
+
+- 强网杯”部分题目Writeup 合天智汇
+https://mp.weixin.qq.com/s/qdjYYdxu7WTv6o8Ru9pyjQ  
+
+- writeup | 强网杯web题目四道 安恒网络空间安全讲武堂
+https://mp.weixin.qq.com/s/KPE-EjU5FJ5ZD2tvDZbX4A
 
 ## PWN
 - Software-Security-Learning
@@ -441,6 +474,9 @@ https://tool.lu/
 - CTF在线工具
 http://ctf.ssleye.com/
 
+- 多功能在线工具库
+http://tools.bugscaner.com/
+
 - 脚本之家在线工具
 http://tools.jb51.net/
 
@@ -456,6 +492,13 @@ http://down.52pojie.cn/
 - 吾爱破解论坛专用破解虚拟机
 http://www.52pojie.cn/thread-341238-1-1.html
 
+- VirusTotal
+https://www.virustotal.com/
+
+- 腾讯哈勃分析系统
+https://habo.qq.com/
+
+
 ### md5
 
 - chamd5
@@ -469,6 +512,9 @@ http://www.cmd5.com/
 
 - pmd5
 http://pmd5.com/
+
+- md5 I tell you（无料）
+http://md5.tellyou.top/
 
 ### other
 
@@ -493,13 +539,16 @@ https://tool.lu/coderunner/
 - 在线写代码工具
 http://www.dooccn.com/
 
+- python反编译 - 在线工具
+https://tool.lu/pyc
+
 ###比赛用笔记本环境：
 
 **环境**
 Java JDK、Python2和3  
 
 **浏览器**
-IE，Chrome，Firefox，安装插件（谷歌助手访问，hackbar等）  
+IE，Chrome，Firefox，安装插件（谷歌助手，hackbar等）  
 
 **协作**
 PC端微信，TeamViewer，提前测试  
@@ -529,4 +578,4 @@ AGtools2017
 1)根据自己主攻方向选择安装，建议放在虚拟机里，nat接入，需要才开启  
 2)用得顺手的字典，以及用得顺手的工具的专用字典  
 3)搜原题：主机能翻墙，不能翻墙用谷歌助手访问Google  
-4)平时收集有用的脚本，包括但不限于：爆破、流量分析、扫描  
+4)平时收集有用的脚本，包括但不限于：爆破、流量分析、扫描 
