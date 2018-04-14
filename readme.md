@@ -542,7 +542,8 @@ http://www.dooccn.com/
 - python反编译 - 在线工具
 https://tool.lu/pyc
 
-### 比赛用笔记本环境：
+## 比赛用笔记本环境
+
 - ### 环境
 ##### Java JDK、Python2和3
 - ### 浏览器
