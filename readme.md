@@ -510,22 +510,11 @@ Kali(NAT，安装vmtools)
 AGtools2017
 
 - 常用工具
-burpsuit/
-fiddler/
-wireshark/
-passware kit/
-gifsplitter（GIF分解）/
-photoshop/
-Audacity（音频隐写）/
-stegsolve/
-HxD Hex Editor/
-ollydbg/
-x64dbg/
-ida/
-apktool/
+burpsuit / fiddler / wireshark / passware kit / gifsplitter（GIF分解）/ photoshop / Audacity（音频隐写）/ stegsolve / HxD Hex Editor / ollydbg / x64dbg / ida / apktool 
+
 - 其他
-1)根据自己主攻方向选择安装，建议放在虚拟机里，nat接入，需要才开启/
-2)用得顺手的字典，以及用得顺手的工具的专用字典/
-3)搜原题：主机能翻墙，不能翻墙用谷歌助手访问Google/
-4)平时收集有用的脚本，包括但不限于：爆破、流量分析、扫描
+1)根据自己主攻方向选择安装，建议放在虚拟机里，nat接入，需要才开启。
+2)用得顺手的字典，以及用得顺手的工具的专用字典。
+3)搜原题：主机能翻墙，不能翻墙用谷歌助手访问Google。
+4)平时收集有用的脚本，包括但不限于：爆破、流量分析、扫描。
 
