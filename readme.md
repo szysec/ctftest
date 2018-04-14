@@ -1,4 +1,4 @@
-﻿## 关于
+## 关于
 
 - CTF Wiki
 https://ctf-wiki.github.io/ctf-wiki/index.html?from=singlemessage&isappinstalled=0
