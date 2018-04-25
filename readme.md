@@ -312,6 +312,9 @@ http://www.tuicool.com/articles/mu6Jv2
 - CTF中图片隐藏文件分离方法总结
 http://www.tuicool.com/articles/VviyAfY
 
+- 入门级流量分析题（实战-瞒天过海）
+https://pan.baidu.com/s/1jbWzpALbG93op5zWx257pQ
+
 ## Blog
 
 - CTF中那些脑洞大开的编码和加密
