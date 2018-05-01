@@ -9,6 +9,9 @@ http://tieba.baidu.com/p/3933947157
 
 ## 线上练习及挑战
 
+- wechall平台 （暗夜极力推崇，要不你试试？）
+http://www.wechall.net/
+
 - i春秋 选手训练营
 https://www.ichunqiu.com/battalion
 
@@ -35,9 +38,6 @@ https://www.hackthissite.org/
 
 - hack 101
 https://www.hacker101.com/
-
-- wechall平台
-http://www.wechall.net/
 
 - WeBug靶场
 https://www.webug.org/
@@ -197,6 +197,9 @@ http://www.freebuf.com/articles/rookie/150129.html
 https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
+
+- 第二届红帽杯——楼上四百队快合并
+http://www.cnblogs.com/liang2580/p/8976226.html
 
 - 第二届强网杯中应用的一种反作弊新思路 i春秋
 https://bbs.ichunqiu.com/thread-36705-1-1.html?from=groupmessage&isappinstalled=0 
