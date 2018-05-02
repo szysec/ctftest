@@ -188,8 +188,7 @@ https://www.cnblogs.com/L1B0/p/7898849.html
 https://www.40huo.cn/blog/huxiangbei-writeup.html
 
 - 2017第十届全国大学生信息安全竞赛WriteUp
-https://bbs.ichunqiu.com/thread-25351-1-1.html
-
+https://bbs.ichunqiu.com/thread-25351-1-1.htm
 - 2017世安杯CTF writeup详解
 http://www.freebuf.com/articles/rookie/150129.html
 
@@ -197,6 +196,14 @@ http://www.freebuf.com/articles/rookie/150129.html
 https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
+- 第二届红帽杯——line（chamd5战队）
+https://blog.l1n3.net/writeup/red_hat_ctf_2018_writeup/
+
+- 第二届红帽杯——安全客（投稿500元？同学们争取啊）
+https://www.anquanke.com/post/id/107005
+
+- 第二届红帽杯——impakho
+https://impakho.com/post/redhat-2018-online-writeup
 
 - 第二届红帽杯——楼上四百队快合并
 http://www.cnblogs.com/liang2580/p/8976226.html
