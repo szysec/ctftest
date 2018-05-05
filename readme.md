@@ -538,6 +538,14 @@ http://pmd5.com/
 - md5 I tell you（无料）
 http://md5.tellyou.top/
 
+### 二维码
+
+- 在线二维码图片解码
+http://jiema.wwei.cn/
+
+- Free Online Barcode Reader
+https://online-barcode-reader.inliteresearch.com/
+
 ### other
 
 - base64
