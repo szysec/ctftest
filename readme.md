@@ -87,6 +87,9 @@ http://smashthestack.org/
 - 合天实验室ctf
 http://www.hetianlab.com/CTFrace.html
 
+- ctf web题总结和练习
+https://blog.csdn.net/u012763794/article/details/50959166
+
 - 三个白帽子（已经被封杀）
 http://www.sangebaimao.com/
 
@@ -196,6 +199,11 @@ http://www.freebuf.com/articles/rookie/150129.html
 https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
+- 第二届红帽杯初赛writeup-上
+https://mp.weixin.qq.com/s/1lQmpfmYmXoevcyK9A2yIA
+
+- 第二届红帽杯初赛writeup-下
+https://mp.weixin.qq.com/s/_uoW1_-A-coxeni30vIfxw
 
 - 第二届红帽杯——line（chamd5战队）
 https://blog.l1n3.net/writeup/red_hat_ctf_2018_writeup/
