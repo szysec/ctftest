@@ -486,6 +486,8 @@ http://tctf.qq.com/
 ## 工具
 
 ### 工具合集
+- CTF工具包
+https://www.ctftools.com/down/
 
 - bugku CTF工具
 http://tool.bugku.com
