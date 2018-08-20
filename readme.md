@@ -199,6 +199,9 @@ http://www.freebuf.com/articles/rookie/150129.html
 https://zhuanlan.zhihu.com/p/29408086
 
 ### 2018
+- 网鼎杯wp-spider
+https://mp.weixin.qq.com/s/yZ-Xp32tCPWbDiFgAHiWgw
+
 - 第二届红帽杯初赛writeup-上
 https://mp.weixin.qq.com/s/1lQmpfmYmXoevcyK9A2yIA
 
