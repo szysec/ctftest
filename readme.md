@@ -8,6 +8,7 @@ http://tieba.baidu.com/p/3933947157
 
 
 ## 线上练习及挑战
+- wp收集 https://www.ctfwp.com/articals/2019unctf.html
 
 - wechall平台 （暗夜极力推崇，要不你试试？）
 http://www.wechall.net/
@@ -576,4 +577,5 @@ http://www.dooccn.com/
 
 - python反编译 - 在线工具
 https://tool.lu/pyc
+
 
